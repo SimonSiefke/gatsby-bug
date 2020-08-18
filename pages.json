@@ -1,0 +1,33 @@
+[
+  {
+    "path": "/pageA",
+    "template": "./src/templates/PageA.jsx",
+    "data": {
+      "modals": [
+        {
+          "contents": [{}]
+        },
+        {
+          "contents": [
+            {
+              "contents": [
+                {
+                  "props": {
+                    "subtext": "PDF"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "path": "/pageB",
+    "template": "./src/templates/PageB.jsx",
+    "data": {
+      "modals": [null]
+    }
+  }
+]
