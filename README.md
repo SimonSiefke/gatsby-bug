@@ -1,6 +1,6 @@
 ```
 git clone https://github.com/SimonSiefke/gatsby-bug &&
-cd bug-repro &&
+cd gatsby-bug &&
 npm ci &&
 npm run develop
 ```
